@@ -508,8 +508,6 @@ HTML5 introduce  etiquetas semánticas, que no aportan ningún comportamiento vi
 
 Si quieres aprender más [aquí](http://www.tutorialmonsters.com/web-semantica-con-html5/)
 
-### Resumen de etiquetas
-Resumen de las etiquetas [aquí](resumen/resumen_de_marcas.md)
 
 ## El inspector de elementos
 El inspector de elementos, es una herramienta que podemos abrirla haciendo click derecho sobre la página y luego inspect nos muestra el código completo de la página y nos permite modificarlo. Con esta herramienta pueden ver el código de cualquier página web. 
